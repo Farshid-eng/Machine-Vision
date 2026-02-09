@@ -1,4 +1,5 @@
 Machine Learning & Deep Learning Models (TensorFlow)
+
 📌 Overview
 
 This repository contains a collection of core Machine Learning and Deep Learning models implemented in TensorFlow, with a focus on understanding model architectures, training logic, and practical usage.
@@ -6,6 +7,7 @@ This repository contains a collection of core Machine Learning and Deep Learning
 The implementations range from fundamental CNN architectures to autoencoders and transfer learning pipelines, making this repository suitable for learning, experimentation, and portfolio demonstration.
 
 🧠 Implemented Models
+
 🔹 AlexNet
 
 Classic deep convolutional neural network

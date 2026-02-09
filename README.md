@@ -104,9 +104,6 @@ Serve as a portfolio repository for ML / DL roles
 
 🚀 How to Run
 
-Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-
 Open any notebook:
 jupyter notebook
 
